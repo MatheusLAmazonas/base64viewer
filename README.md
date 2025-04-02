@@ -13,7 +13,7 @@ git clone https://github.com/MatheusLAmazonas/base64viewer<br>
 cd base64viewer<br>
 
 give execution permission to the script:<br>
-chmod +x base64tool.sh
+chmod +x base64viewer.sh
 
 ## 🚀 Usage:
 
