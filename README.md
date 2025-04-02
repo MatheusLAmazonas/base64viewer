@@ -28,6 +28,7 @@ The script will display the following menu:<br>
 0 - Exit  <br>
 
 3️⃣ Example Usage<br>
+<br>
 ➤ Encoding a text<br>
 Input:<br>
 Hello, World!<br>
