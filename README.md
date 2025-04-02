@@ -2,10 +2,10 @@
 A simple Bash script for encoding and decoding text using Base64.
 
 ## 📌 Features:
-✅ Encode text to Base64
-✅ Decode Base64 to text
-✅ Simple, fast, and dependency-free
-✅ Works on Linux and macOS
+✅ Encode text to Base64<br>
+✅ Decode Base64 to text<br>
+✅ Simple, fast, and dependency-free<br>
+✅ Works on Linux and macOS<br>
 
 ## 📥 Installation:
 Clone this repository:<br>
