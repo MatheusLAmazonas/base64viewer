@@ -4,10 +4,10 @@
 # Author: AMAZ0NAS
 # Description: A simple tool to encode and decode text using Base64.
 # Usage: Run the script and follow the instructions to encode or decode a text.
-# BASE64 Tool v1.0
+# BASE64 VIEWER v1.0
 # License: MIT
 # Requires: base64 (GNU coreutils)
-# Usage: ./base64tool.sh
+# Usage: ./base64viewer.sh
 
 show_menu() {
     clear
