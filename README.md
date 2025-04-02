@@ -17,17 +17,17 @@ chmod +x base64tool.sh
 
 ## 🚀 Usage:
 
-1️⃣ Run the script<br>
+1️⃣ Run the script:<br>
 ./base64viewer.sh<br>
 
 
-2️⃣ Choose an option<br>
+2️⃣ Choose an option:<br>
 The script will display the following menu:<br>
 1 - Encode text to Base64  <br>
 2 - Decode Base64 to text  <br>
 0 - Exit  <br>
 
-3️⃣ Example Usage<br>
+3️⃣ Example Usage:<br>
 <br>
 ➤ Encoding a text<br>
 Input:<br>
